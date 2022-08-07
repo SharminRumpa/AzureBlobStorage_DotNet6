@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lxcDSBnpP5HuFT3GGIyE8/RpdBWhMw+tdiWG4o3HbeI=",
+  "Source": "AzureBlobStorage_DotNet6",
+  "BasePath": "_content/AzureBlobStorage_DotNet6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
