@@ -59,3 +59,5 @@ F:\New Project\AzureBlobStorage_DotNet6\AzureBlobStorage_DotNet6\obj\Debug\net6.
 F:\New Project\AzureBlobStorage_DotNet6\AzureBlobStorage_DotNet6\obj\Debug\net6.0\AzureBlobStorage_DotNet6.pdb
 F:\New Project\AzureBlobStorage_DotNet6\AzureBlobStorage_DotNet6\obj\Debug\net6.0\AzureBlobStorage_DotNet6.genruntimeconfig.cache
 F:\New Project\AzureBlobStorage_DotNet6\AzureBlobStorage_DotNet6\obj\Debug\net6.0\ref\AzureBlobStorage_DotNet6.dll
+F:\New Project\AzureBlobStorage_DotNet6\AzureBlobStorage_DotNet6\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\New Project\AzureBlobStorage_DotNet6\AzureBlobStorage_DotNet6\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
